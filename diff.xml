@@ -1,0 +1,18 @@
+<application>
+  <component name="ExternalDiffSettings">
+    <option name="DIFF_DEFAULT" value="true" />
+    <option name="DIFF_ENABLED" value="true" />
+    <option name="DIFF_EXE_PATH" value="/usr/bin/bcompare" />
+    <option name="MERGE_ENABLED" value="true" />
+    <option name="MERGE_EXE_PATH" value="/usr/bin/bcompare" />
+  </component>
+  <component name="TextDiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="Default">
+        <PlaceSettings>
+          <option name="BREADCRUMBS_PLACEMENT" value="TOP" />
+        </PlaceSettings>
+      </entry>
+    </option>
+  </component>
+</application>

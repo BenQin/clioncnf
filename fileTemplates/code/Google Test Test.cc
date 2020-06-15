@@ -1,0 +1,4 @@
+TEST(${SuiteName}, ${TestName}) 
+{
+    ${END}
+}
