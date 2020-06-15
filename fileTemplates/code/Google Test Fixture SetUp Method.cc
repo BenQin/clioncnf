@@ -1,4 +1,0 @@
-virtual void SetUp() 
-{
-    ${END}
-}

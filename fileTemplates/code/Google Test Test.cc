@@ -1,4 +1,0 @@
-TEST(${SuiteName}, ${TestName}) 
-{
-    ${END}
-}
