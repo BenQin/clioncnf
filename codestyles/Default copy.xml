@@ -11,9 +11,6 @@
     <option name="KEYWORD_CASE" value="0" />
     <option name="TYPE_CASE" value="0" />
   </SQLiteCodeStyleSettings>
-  <codeStyleSettings language="CMake">
-    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
-  </codeStyleSettings>
   <codeStyleSettings language="ObjectiveC">
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="BRACE_STYLE" value="5" />
