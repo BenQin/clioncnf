@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="luci-reload" type="Shell Script" />
+      <mapping pattern="manager" type="Shell Script" />
+      <mapping pattern="controller" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
