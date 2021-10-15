@@ -1,7 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="dropbear" type="PLAIN_TEXT" />
+      <mapping pattern="network" type="PLAIN_TEXT" />
+      <mapping pattern="system" type="PLAIN_TEXT" />
       <mapping pattern="luci-reload" type="Shell Script" />
+      <mapping pattern="firewall" type="Shell Script" />
       <mapping pattern="manager" type="Shell Script" />
       <mapping pattern="controller" type="Shell Script" />
     </extensionMap>
