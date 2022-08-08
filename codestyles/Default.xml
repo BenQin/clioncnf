@@ -1,4 +1,10 @@
 <code_scheme name="Default" version="173">
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="INDENT_SIZE" value="8" />
+      <option name="TAB_SIZE" value="8" />
+    </value>
+  </option>
   <Objective-C>
     <option name="INDENT_NAMESPACE_MEMBERS" value="0" />
     <option name="INDENT_C_STRUCT_MEMBERS" value="8" />
@@ -29,7 +35,19 @@
       <rule entity="LOCAL_VARIABLE" visibility="ANY" specifier="ANY" prefix="" style="SNAKE_CASE" suffix="" />
     </rules>
   </Objective-C-extensions>
+  <codeStyleSettings language="CMake">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="8" />
+      <option name="TAB_SIZE" value="8" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="8" />
+      <option name="TAB_SIZE" value="8" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Lua">
     <indentOptions>
       <option name="INDENT_SIZE" value="8" />
       <option name="TAB_SIZE" value="8" />
@@ -53,6 +71,13 @@
       <option name="INDENT_SIZE" value="8" />
       <option name="TAB_SIZE" value="8" />
       <option name="LABEL_INDENT_ABSOLUTE" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Python">
+    <option name="RIGHT_MARGIN" value="80" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="8" />
+      <option name="TAB_SIZE" value="8" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
