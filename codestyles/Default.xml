@@ -36,6 +36,9 @@
       <rule entity="LOCAL_VARIABLE" visibility="ANY" specifier="ANY" prefix="" style="SNAKE_CASE" suffix="" />
     </rules>
   </Objective-C-extensions>
+  <Shell_Script>
+    <option name="REDIRECT_FOLLOWED_BY_SPACE" value="true" />
+  </Shell_Script>
   <codeStyleSettings language="CMake">
     <indentOptions>
       <option name="INDENT_SIZE" value="8" />
