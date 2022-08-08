@@ -4,12 +4,13 @@
     <property name="created">2020-07-20T09:04:41</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-07-22T15:43:20</property>
+    <property name="modified">2022-08-08T16:50:16</property>
     <property name="originalScheme">Github</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="17" />
   <option name="EDITOR_FONT_NAME" value="YaHei Consolas Hybrid" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="CARET_COLOR" value="333333" />
     <option name="CARET_ROW_COLOR" value="f8eec7" />
@@ -900,7 +901,6 @@
       <value>
         <option name="EFFECT_COLOR" value="cccccc" />
         <option name="ERROR_STRIPE_COLOR" value="ffffcc" />
-        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="IVAR">
@@ -1807,7 +1807,6 @@
         <option name="BACKGROUND" value="f6ebbc" />
         <option name="EFFECT_COLOR" value="333333" />
         <option name="ERROR_STRIPE_COLOR" value="ffff00" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
